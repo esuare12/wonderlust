@@ -83,7 +83,7 @@ picture, #plan-your-trip, #about-your-destination  {
     margin-top:1rem;
 }
 header {
-    grid-row:2/3;
+    grid-row:1;
     background-color: var(--turquoise-blue);
     border-top: 3px solid var(--soft-white);
     border-bottom: 3px solid var(--soft-white);
